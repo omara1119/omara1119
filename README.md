@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://app.daily.dev/oalbazergan"><img src="https://api.daily.dev/devcards/v2/oLg7mcQnWQGUu1dTn2EBY.png?type=default&r=z12" width="356" alt="Omar Al-Bazergan's Dev Card"/></a>
+<a href="https://app.daily.dev/oalbazergan"><img src="https://api.daily.dev/devcards/v2/oLg7mcQnWQGUu1dTn2EBY.png?type=default&r=9b8" width="356" alt="Omar Al-Bazergan's Dev Card"/></a>
 
 ###    Omar Al-Bazergan
 ###    Co-Founder and CTO of Shelp Inc.
