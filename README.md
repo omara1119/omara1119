@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **omara1119/omara1119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://app.daily.dev/oalbazergan"><img src="https://api.daily.dev/devcards/v2/oLg7mcQnWQGUu1dTn2EBY.png?type=default&r=z12" width="356" alt="Omar Al-Bazergan's Dev Card"/></a>
+
+###    Omar Al-Bazergan
+###    Co-Founder and CTO of Shelp Inc.
+###    omar@shelp.xyz
+###    +1 (520)288-3452
+###    Full Stack Developer
